@@ -4,7 +4,7 @@ This is a repository related to the project to realize "Tangkas, S.Kom".
 
 ## Background
 
-Our friend, Tangkas, experienced difficulties while working on his thesis. As a dignified friend, Hendra and I decided to help him. It so happened that we were in the same class at the Informatics Study Program. The difference is, Hendra has passed the thesis examination, I am going to the thesis examination, while Tangkas is just starting the thesis.
+Our friend, Tangkas, experienced difficulties while working on his thesis. As a dignified friend, Hendra and I decided to help him. It so happened that we were in the same class at the Informatics Study Program. The difference is, Hendra and I have passed the thesis examination, while Tangkas is just about starting the thesis.
 
 ## Aim
 
@@ -12,11 +12,11 @@ It's very clear, which is realizing the S.Kom title on Tangkas.
 
 ## Benefits
 
-Helped realize Mr. Suhar's vision, which wanted to "graduate the 2016 generation on time".
+Helped realize Mr. Suhar's vision, which wanted to "graduate the 2016 generation just on time".
 
 ## Latest Development
 
-To see the latest developments, [see this Trello link](https://trello.com/b/XCzNzid6).
+To see the latest developments, [see this Trello link](https://trello.com/b/CJRdLU8Y).
 
 ## Links Reference
 
